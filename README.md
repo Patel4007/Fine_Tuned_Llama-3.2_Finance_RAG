@@ -23,5 +23,22 @@ The repository includes a Jupyter Notebook, Finance_RAG_Pipeline.ipynb, which ou
 - PEFT (Parameter Efficient Fine Tuning) library
 - TRL (Transformer Reinforcement Learning) library
 
+## Installation
 
+Clone the repository:
+
+```bash
+git clone https://github.com/Patel4007/Fine_Tuned_Llama-3.2_Finance_RAG.git
+```
+
+Navigate to the repository and open the notebook:
+
+```bash
+cd Fine_Tuned_Llama-3.2_Finance_RAG
+jupyter notebook Finance_RAG_Pipeline.ipynb
+```
+
+## License
+
+This project is licensed under the MIT License.
 
